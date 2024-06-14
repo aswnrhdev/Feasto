@@ -49,6 +49,6 @@ Proud to have built Feasto from the ground up! 🚀
 
 ---
 
-For any queries or feedback, please contact [aswnrh.dev@gmail.com].
+For any queries or feedback, please contact [ aswnrh.dev@gmail.com ].
 
 Happy Coding!
