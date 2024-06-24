@@ -45,7 +45,7 @@ Feasto is a cutting-edge food delivery application built using the MERN stack (M
 
 ---
 
-Proud to have built Feasto from the ground up! 🚀
+Proud to have built Feasto from the ground up!
 
 ---
 
