@@ -1,4 +1,4 @@
-# Feasto
+# Feasto.
 
 Feasto is a cutting-edge food delivery application built using the MERN stack (MongoDB, Express, React, Node.js) This project combines sleek and intuitive UI designs with robust backend functionalities to deliver an exceptional user experience.
 
